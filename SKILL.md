@@ -6,7 +6,7 @@ description:
   所有涉及飞书 (Lark) 体系的任务管理行为、组织决策及执行协同必须通过此 skill。
   触发场景：任务调配分发、处理跨部门信息流转、追溯任务与执行率、处理复杂多维表格审计、安排高度冲突的日历日程、或者当出现执行卡点时需要从历史记忆中寻找解决方案时。
 metadata:
-  author: Antigravity
+  author: Yaemiko
   version: "2.0.0"
 ---
 
